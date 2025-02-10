@@ -1,5 +1,6 @@
 ## 👋 Hey there! I'm Sparsh Mishra
 🚀 Tech Enthusiast | Open-Source Contributor | Developer
+![21004063](https://github.com/user-attachments/assets/04b9086a-a9ca-4a9e-b1bf-24d0fcef6c7e)
 
 💡 About Me
 - 🎓 B.Tech CSE (2023-2027) | Ambalika Institute of Management and Technology
