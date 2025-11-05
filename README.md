@@ -1,96 +1,120 @@
 <div align="center">
 
-<!-- Cosmic Genius Banner -->
-<img src="https://i.ibb.co/3yM8KJQ/stars-night.gif" width="100%" height="200px"/>
+<!-- Header -->
+<img src="https://i.ibb.co/3yM8KJQ/stars-night.gif" width="100%" height="160px" alt="stars"/>
 
-# 🌌 Sparsh Mishra – Architect of Code & Communities 🌌  
-**Visionary | Open-Source Leader | Developer | Innovator**
+# 🌟 **Sparsh Mishra**
+**Developer • Open Source Contributor • Community Builder**
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=1000&color=00F9FF&center=true&vCenter=true&width=700&lines=I+don't+just+code...+I+build+realities.;Turning+Ideas+into+Innovation.;Shaping+the+future+through+technology.;Leading+the+cosmos+of+Open+Source!"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=0077FF&center=true&vCenter=true&width=750&lines=Crafting+Logic+into+Reality.;Designing+Scalable+and+Intelligent+Solutions.;Building+Communities+that+Innovate.;Learning%2C+Leading%2C+and+Growing+Together!"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SparshM8&style=flat-square&color=0077FF)
+![Followers](https://img.shields.io/github/followers/SparshM8?style=flat-square&color=0077FF)
+![Stars](https://img.shields.io/github/stars/SparshM8?style=flat-square&color=0077FF)
 
 ---
 
-## 👑 Who Am I?
-> "Not just a developer, but a creator of possibilities."  
+</div>
+
+## 🌈 About Me
+> *“Innovation starts when logic meets imagination.”*
 
 🎓 **B.Tech CSE (2023–2027)** @ Ambalika Institute of Management & Technology  
-🪐 Founder & Lead of **Enigma Technical Club** – *42+ Innovators, 7 Committees*  
-🚀 **Open-Source Contributor** | **Community Builder** | **Tech Evangelist**  
-⚡ Passion: Building things that outlive me — Software, Communities, Legacies  
+🚀 **Co-Founder & Lead – Enigma Technical Club** (42+ Innovators, 7 Committees)  
+💡 **Founder – The Logic Hub** | **Core Developer – NerdsRoom**  
+🌐 **Open Source Contributor** @ SWOC, SSOC, FOSS United, OSCI  
+🏅 **State Lead – Open Source Connect India** | **City Lead – Career Corps**  
+🎓 **Aspire Leaders Program (Harvard Initiative)** – Global Leadership & Impact  
+🎙️ **Speaker & Mentor** in hackathons, developer sessions, and tech events  
 
 ---
 
-## 🧠 My Domain – The Genius Zone
-- **Competitive Programmer** – Crushing problems on CodeChef, LeetCode & HackerRank  
-- **Software Architect** – Projects like Amazon Clone, Smart Calculators, Currency Tools  
-- **Community Leader** – Reviving AIMT’s technical spirit with Enigma Club  
-- **Open-Source Visionary** – Contributor @ SWOC | State Lead @ Open Source Connect  
-- **Mentor & Speaker** – Inspiring minds through talks, sessions, hackathons  
+## ⚙️ Tech Arsenal
+<div align="center">
+
+| **Languages** | **Frameworks / Tools** |
+|----------------|-------------------------|
+| ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) | ![React](https://skillicons.dev/icons?i=react) ![Nextjs](https://skillicons.dev/icons?i=nextjs) ![Nodejs](https://skillicons.dev/icons?i=nodejs) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Postman](https://skillicons.dev/icons?i=postman) ![Figma](https://skillicons.dev/icons?i=figma) ![GitHub](https://skillicons.dev/icons?i=github) |
+
+</div>
 
 ---
 
-## 🌌 Skills Galaxy
-✨ *Languages & Frameworks orbit around me like stars:*  
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+## 🏆 Achievements & Global Highlights
 
-🛠 *Weapons of choice in my arsenal:*  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+🎯 **Google Developer Badges**  
+[![DevFest Attendee](https://img.shields.io/badge/DevFest%202024%20Attendee-blue?logo=google)](https://developers.google.com/profile/badges/events/community/devfest/2024/attendee)
+[![Solution Challenge](https://img.shields.io/badge/Solution%20Challenge%202025%20Participant-red?logo=google)](https://developers.google.com/profile/badges/community/solution-challenge/2025/participant)
+[![Firebase Studio](https://img.shields.io/badge/Firebase%20Studio%20Badge-yellow?logo=firebase)](https://developers.google.com/profile/badges/community/firebasestudio/firebase-studio)
+[![Developer Profile](https://img.shields.io/badge/Google%20Developer%20Profile-blue?logo=google)](https://developers.google.com/profile/badges/profile/created-profile)
 
----
+💻 **Hackathons & Open Source Programs**  
+Smart India Hackathon · Adobe India Hackathon · GUVI–HCL Buildathon  
+TCS CodeVita 12 · GDG Solution Challenge 2025 · SWOC · SSOC  
 
-## 🏆 Hall of Achievements
-- 🚀 **Smart India Hackathon 2024** – Participant in India’s biggest innovation arena  
-- ⚡ **TCS CodeVita 12** – Competed in the coding colosseum  
-- 🌐 **Open-Source @ SWOC** – Impacting real-world projects  
-- 🎖 **IEEE Leader** – Publicity Committee Head, driving tech events  
-- 👑 **City Lead @ Career Corps** | **State Lead @ Open Source Connect**  
+🌍 **Leadership & Community**  
+- Co-Founder & Lead – *Enigma Technical Club*  
+- Founder – *The Logic Hub (SDC–AIMT)*  
+- Publicity Head – *IEEE AIMT Student Branch*  
+- State Lead – *Open Source Connect India*  
+- City Lead – *Career Corps*  
+- Team Member – *Genesis Web3 Community*
 
 ---
 
-## 🚀 My Innovations
-🔹 **Enigma Technical Club** – Flat-structured innovation ecosystem  
-🔹 **YouTube Tech Series** – Live demos, tutorials & problem-solving  
-🔹 **Tech Resource Hub** – Blogs + curated guides for learners  
-🔹 **Portfolio Website** – *Launching soon into orbit...* 🌌  
+## 🚀 Featured Projects
+
+| 🌐 Project | 🧩 Tech Stack | ✨ Description |
+|------------|---------------|----------------|
+| [**Curi-Cuisine**](https://github.com/SparshM8/Curi-Cuisine) | React · Node.js · Gemini API | AI-powered recipe generator using camera & voice input. |
+| [**Enigma Website**](https://github.com/SparshM8/Enigma) | MERN · Redux · Cloudinary | Club portal with event management and admin dashboard. |
+| [**AllTripp**](https://github.com/SparshM8/AllTrip) | Next.js · TypeScript · Shadcn UI | SEO-optimized travel platform with analytics and animations. |
+| [**PixelVerse**](https://github.com/SparshM8/PixelVerse) | HTML · Tailwind · JS | Dynamic hackathon website with countdown and parallax layers. |
 
 ---
 
-## 📊 Genius Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=SparshM8&show_icons=true&theme=vision-friendly-dark&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SparshM8&layout=compact&theme=vision-friendly-dark&hide_border=true)  
-![Streak](https://streak-stats.demolab.com?user=SparshM8&theme=vision-friendly-dark&hide_border=true)  
+## 📊 GitHub Metrics
 
-🏆 **Trophies of a Genius:**  
-![Trophy](https://github-profile-trophy.vercel.app/?username=SparshM8&theme=radical&no-frame=true&row=1&column=7)
+<div align="center">
 
-🐍 *Watch my genius contributions come alive:*  
-![snake gif](https://github.com/SparshM8/SparshM8/blob/output/github-contribution-grid-snake.svg)
+![Stats](https://github-readme-stats.vercel.app/api?username=SparshM8&show_icons=true&theme=transparent&hide_border=true&title_color=0077FF&icon_color=0077FF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SparshM8&layout=compact&theme=transparent&hide_border=true&title_color=0077FF)
+![Streak](https://streak-stats.demolab.com?user=SparshM8&theme=default&hide_border=true)
 
----
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SparshM8&bg_color=ffffff&color=0077FF&line=0077FF&point=00bfff&area=true&hide_border=true)
 
-## 🎧 Genius Vibes
-[![Spotify](https://spotify-now-playing-readme.vercel.app/api/spotify)](https://open.spotify.com/user/31mrh4hfcjvq5feeq6h4k4p5gvyu)
+</div>
 
 ---
 
-## ✨ Quote of Brilliance
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 🎧 Developer’s Playlist
+<div align="center">
+<a href="https://open.spotify.com/user/31mrh4hfcjvq5feeq6h4k4p5gvyu">
+<img src="https://spotify-now-playing-readme.vercel.app/api/spotify" alt="Spotify" />
+</a>
+</div>
 
 ---
 
-## 🌍 Connect with the Genius
-🔗 [LinkedIn](https://www.linkedin.com/in/sparshm8/) • [GitHub](https://github.com/SparshM8) • [Twitter/X](https://x.com/8_Samay) • [LeetCode](https://leetcode.com/u/d1VxUT3oFI/) • [CodeChef](https://www.codechef.com/users/its8samay)
+## 🌐 Connect with Me
+<div align="center">
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sparshm8/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/SparshM8)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/d1VxUT3oFI/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/its8samay)
+[![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/8_Samay)
+[![Email](https://img.shields.io/badge/Email-sparsh1825@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:sparsh1825@gmail.com)
+
+</div>
 
 ---
 
-<img src="https://i.ibb.co/3yM8KJQ/stars-night.gif" width="100%" height="150px"/>
+<div align="center">
+<img src="https://i.ibb.co/3yM8KJQ/stars-night.gif" width="100%" height="100px" alt="footer"/>
+  
+<h4>✨ “Genius isn’t about titles — it’s about the legacy you build.” ✨</h4>
 
-# 🚀 *"Genius is not about age or titles — it's about vision."* 🌌
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=00BFFF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐+Let's+collaborate+and+create+impact!)
 
 </div>
