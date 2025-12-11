@@ -50,7 +50,7 @@
 
 💻 **Hackathons & Open Source Programs**  
 Smart India Hackathon · Adobe India Hackathon · GUVI–HCL Buildathon  
-TCS CodeVita 12 · GDG Solution Challenge 2025 · SWOC · SSOC  
+TCS CodeVita 12 · GDG Solution Challenge 2025 · SWOC'25 · SSOC'25 · OSCI'25
 
 🌍 **Leadership & Community**  
 - Co-Founder & Lead – *Enigma Technical Club*  
@@ -59,6 +59,7 @@ TCS CodeVita 12 · GDG Solution Challenge 2025 · SWOC · SSOC
 - State Lead – *Open Source Connect India*  
 - City Lead – *Career Corps*  
 - Team Member – *Genesis Web3 Community*
+- Core Tech Lead – *Nerds Room*
 
 ---
 
