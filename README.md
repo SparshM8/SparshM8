@@ -78,8 +78,8 @@ TCS CodeVita 12 · GDG Solution Challenge 2025 · SWOC'25 · SSOC'25 · OSCI'25
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SparshM8&show_icons=true&theme=transparent&hide_border=true&title_color=0077FF&icon_color=0077FF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SparshM8&layout=compact&theme=transparent&hide_border=true&title_color=0077FF)
+![Stats](https://github-readme-stats.shion.dev/api?username=SparshM8&show_icons=true&theme=transparent&hide_border=true&title_color=0077FF&icon_color=0077FF)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=SparshM8&layout=compact&theme=transparent&hide_border=true&title_color=0077FF)
 ![Streak](https://streak-stats.demolab.com?user=SparshM8&theme=default&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SparshM8&bg_color=ffffff&color=0077FF&line=0077FF&point=00bfff&area=true&hide_border=true)
