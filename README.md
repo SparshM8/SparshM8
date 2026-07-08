@@ -25,7 +25,7 @@ currently:
   - "🔬 Research Intern — under Prof. Ajay Bharti, AKTU (Apr 2026 – Present)"
   - "🌱 Green Skills & Applied AI Intern — 1M1B Foundation (Jun 2026 – Present)"
   - "📊 AI for Sustainability Intern — 1M1B x IBM SkillsBuild x AICTE (May 2026 – Present)"
-  - "🌐 Open Source Mentor — GSSoC · SSoC · OSCG · Apertre 3.0 (Jan 2026 – Present)"
+  - "🌐 5X Mentor — GSSoC · SSoC · OSCG · Apertre 3.0 · OSC AI BUILD Hackathon (Jan 2026 – Present)"
 recognition:
   - "🏅 Selected — Amazon ML Summer School 2026"
   - "🏅 Under25 Fellow — chosen from 7,000+ applicants nationwide"
@@ -66,8 +66,8 @@ focus: "Building full-stack AI-integrated products (RAG, LLM pipelines, vector s
 | Research Intern (LandChain — confidential AKTU-assigned project) | Under Prof. Ajay Bharti, AKTU | Apr 2026 – Present |
 | Green Skills & Applied AI Intern | 1M1B Foundation | Jun 2026 – Present |
 | AI for Sustainability Virtual Intern | 1M1B × IBM SkillsBuild × AICTE | May 2026 – Present |
-| Web Developer Intern | AllTripp | 2025 |
-| Publicity Committee Head → Member | IEEE AIMT Student Branch | Nov 2024 – Feb 2026 |
+| Web Developer Intern | AllTripp | July 2025 |
+| Publicity Committee Head → Member | IEEE AIMT Student Branch | Nov 2025 – Feb 2026 |
 | Under25 Fellow | Under25 | Sep 2025 – Jan 2026 |
 | Web Developer | Nerds Room (student community) | Jul 2025 – Nov 2025 |
 | Graphic Designer | Genesis (student community) | Jul 2025 – Jan 2026 |
@@ -109,6 +109,7 @@ Solved **681+ problems** across LeetCode, GeeksforGeeks, HackerRank, CodeChef, C
 - Under25 Fellow (top 500 of 7,000+ applicants)
 - MMGEIS Geospatial Mentorship — recommended by mentors from Esri India & RIMES/IMD
 - HackBLR Hackathon — Finalist
+- Make4Lucknow Buildathon - Finalist
 - Google Prompt War Challenge (bi-weekly, w/ Hack2skill)
 
 </td>
