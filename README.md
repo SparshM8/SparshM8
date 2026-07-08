@@ -145,8 +145,7 @@ Solved **681+ problems** across LeetCode, GeeksforGeeks, HackerRank, CodeChef, C
 ### 🏅 Trophy Case
 
 <div align="center">
-<div align="center">
-<img src="https://github-profile-trophy-reiyua-mirror.vercel.app/?username=SparshM8&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://gh-trophy.cdnsoft.net/?username=SparshM8&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8" />
 </div>
 
 ---
