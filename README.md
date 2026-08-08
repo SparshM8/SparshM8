@@ -142,22 +142,6 @@ Solved **681+ problems** across LeetCode, GeeksforGeeks, HackerRank, CodeChef, C
 
 </div>
 
-### 🏅 Trophy Case
-
-<div align="center">
-<img src="https://gh-trophy.cdnsoft.net/?username=SparshM8&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8" />
-</div>
-
----
-
-## 🎧 Now Playing
-
-<div align="center">
-<a href="https://open.spotify.com/user/31mrh4hfcjvq5feeq6h4k4p5gvyu">
-<img src="https://spotify-now-playing-readme.vercel.app/api/spotify" alt="Spotify" />
-</a>
-</div>
-
 ---
 
 ## 🌐 Connect with Me
