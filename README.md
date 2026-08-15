@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00BFFF&height=200&section=header&text=Sparsh%20Mishra&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20with%20AI%20Integration%20•%20Data%20Analyst&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00BFFF&height=200&section=header&text=Sparsh%20Mishra&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20with%20AI%20Integration%20%E2%80%A2%20Data%20Analyst&descAlignY=55&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=0077FF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer+with+AI+Integration;Data+Analyst+%7C+Turning+Data+into+Decisions;Building+RAG+Pipelines+%26+Agentic+Workflows;Open+Source+Mentor+%7C+Community+Builder"/>
 
@@ -14,6 +14,12 @@
 </div>
 
 <br/>
+
+## Hello, I'm Sparsh Mishra 👋
+
+I'm a **B.Tech Computer Science student (2023–2027)** at Ambalika Institute of Management & Technology, Lucknow, passionate about building **full-stack AI-integrated products** and turning raw data into real decisions. My work spans MERN stack development, LLM-powered applications (RAG pipelines, vector search, agentic workflows), and data analysis with Power BI, SQL, and Python.
+
+Beyond code, I'm a community builder — the **Co-Founder of Enigma Technical Club**, an **open source mentor** across four programs, and a mentor to student projects nationwide.
 
 ## 🌈 About Me
 
@@ -49,7 +55,7 @@ focus: "Building full-stack AI-integrated products (RAG, LLM pipelines, vector s
 
 **AI / ML Integration**
 <br/>
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![LangChain](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Firebase](https://skillicons.dev/icons?i=firebase) ![PyTorch](https://img.shields.io/badge/Vector%20Search-Qdrant%20%7C%20FAISS-DC244C?style=flat-square) 
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![LangChain](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Firebase](https://skillicons.dev/icons?i=firebase) ![PyTorch](https://img.shields.io/badge/Vector%20Search-Qdrant%20%7C%20FAISS-DC244C?style=flat-square)
 
 **Data Analysis & Tools**
 <br/>
@@ -85,7 +91,7 @@ focus: "Building full-stack AI-integrated products (RAG, LLM pipelines, vector s
 |------------|---------------|----------------|
 | **LandChain** *(in progress)* | Next.js 14 · FastAPI · SQLAlchemy · SHA-256 ledger | Secure land-registry research project under AKTU faculty guidance — immutable record chain, ownership-transfer workflow, and public audit verification. |
 | [**WorkFlow_AI (MeetFlow AI)**](https://github.com/SparshM8/WorkFlow_AI) | MERN · Gemini 1.5 Flash · Firebase · GCP | AI event concierge — smart badge scanner, Google Wallet event pass, live venue radar, agentic re-routing. 66 passing tests, 100% JSDoc coverage. Built for the **Google Prompt War Challenge**. |
-| [**VeriPaper**](https://github.com/SparshM8) | FastAPI · Python 3.11 · SBERT · FAISS | Research-authenticity platform — plagiarism detection via SBERT embeddings + FAISS vector search, AI-content detection via perplexity analysis, CrossRef citation validation, and statistical anomaly detection. |
+| [**VeriPaper**](https://github.com/SparshM8/VeriPaper) | FastAPI · Python 3.11 · SBERT · FAISS | Research-authenticity platform — plagiarism detection via SBERT embeddings + FAISS vector search, AI-content detection via perplexity analysis, CrossRef citation validation, and statistical anomaly detection. |
 | [**DocOps Enterprise**](https://github.com/SparshM8/DocOps) | Next.js · Qdrant · LangGraph · Gemini (RAG) | Industrial documentation & diagnostics platform — AI ingestion pipeline over manuals, RAG copilot for root-cause analysis, simulated IoT telemetry dashboard, AR barcode scanning, offline WebGPU Llama-3 inference. |
 | [**AllTrip**](https://github.com/SparshM8/AllTrip) | Next.js · TypeScript · Tailwind · Framer Motion | Travel agency platform — SEO-optimized, analytics-instrumented (Vercel Analytics + Speed Insights), animated UI. |
 | [**PixelVerse**](https://github.com/SparshM8/PixelVerse) | HTML · Tailwind · JS | Competition website built for Nerds Room's **PixelVerse** hackathon — [live site](https://pixelverse-nerdsroom.vercel.app/). |
@@ -109,7 +115,7 @@ Solved **681+ problems** across LeetCode, GeeksforGeeks, HackerRank, CodeChef, C
 - Under25 Fellow (top 500 of 7,000+ applicants)
 - MMGEIS Geospatial Mentorship — recommended by mentors from Esri India & RIMES/IMD
 - HackBLR Hackathon — Finalist
-- Make4Lucknow Buildathon - Finalist
+- Make4Lucknow Buildathon — Finalist
 - Google Prompt War Challenge (bi-weekly, w/ Hack2skill)
 
 </td>
@@ -158,7 +164,7 @@ Solved **681+ problems** across LeetCode, GeeksforGeeks, HackerRank, CodeChef, C
 
 <div align="center">
 
-<h4>✨ “Genius isn’t about titles — it’s about the legacy you build.” ✨</h4>
+<h4>✨ "Genius isn't about titles — it's about the legacy you build." ✨</h4>
 
 ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=00BFFF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐+Let's+collaborate+and+create+impact!)
 
