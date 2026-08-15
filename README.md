@@ -142,8 +142,6 @@ Solved **681+ problems** across LeetCode, GeeksforGeeks, HackerRank, CodeChef, C
 <img src="https://github-readme-stats.shion.dev/api?username=SparshM8&show_icons=true&theme=transparent&hide_border=true&title_color=0077FF&icon_color=0077FF&count_private=true" width="49%" />
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SparshM8&layout=compact&theme=transparent&hide_border=true&title_color=0077FF" width="49%" />
 
-<img src="https://streak-stats.demolab.com?user=SparshM8&theme=default&hide_border=true" width="80%" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SparshM8&bg_color=ffffff&color=0077FF&line=0077FF&point=00bfff&area=true&hide_border=true" width="100%" />
 
 </div>
