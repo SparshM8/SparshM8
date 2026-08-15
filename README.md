@@ -44,30 +44,6 @@ My work spans **MERN applications, generative AI integrations, retrieval-augment
 | [**APIXpress**](https://github.com/SparshM8/APIXPRESS) | TypeScript · REST APIs | Developer-focused API testing client for building, testing, and documenting API workflows. |
 | [**Phishing Detector**](https://github.com/SparshM8/Phishing-Detector) | Java · Cybersecurity | URL-safety tool for identifying potentially malicious and phishing links. |
 
-## Coding and Problem-Solving Snapshot
-
-> Statistics below are based on the public [Codolio profile](https://codolio.com/profile/SparshM8) and may change as new activity is recorded.
-
-| Metric | Current snapshot |
-|---|---:|
-| Questions solved | **1,053** |
-| Active days | **111** |
-| Submissions | **1,486** |
-| Contests attended | **35** |
-| Awards | **32** |
-| Maximum streak | **43 days** |
-| Competitive-programming problems | **705** |
-| Difficulty split | **270 Easy · 133 Medium · 99 Hard** |
-
-### Platform Ratings
-
-| Platform | Rating / level |
-|---|---|
-| LeetCode | 1,544 |
-| CodeChef | 1,450 |
-| Codeforces | Specialist · 1,436 |
-| CodeStudio | 1,546 |
-
 ## Recognition and Experience
 
 - **AI for ASIA 2026** participant
