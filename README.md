@@ -31,14 +31,16 @@ My current interests include **MERN applications, TypeScript, retrieval-augmente
 
 ## Featured Work
 
+> **Recommended first:** [Craveo](https://github.com/SparshM8/Craveo) — the strongest end-to-end product showcase in this portfolio, combining a React frontend, Express/MongoDB backend, authentication, media uploads, reviews, tests, and a documented product roadmap.
+
 | Project | Technologies | Highlights |
 |---|---|---|
+| [**Craveo**](https://github.com/SparshM8/Craveo) | React · Express · MongoDB · Playwright | Visual food-discovery prototype with reels, restaurant catalog, reviews, partner uploads, cart, and order flows. |
 | [**WorkFlow AI / MeetFlow AI**](https://github.com/SparshM8/WorkFLow_AI) | MERN · Gemini · Firebase | AI event concierge with smart badge scanning, event passes, venue awareness, and agentic assistance. |
-| [**VeriPaper**](https://github.com/SparshM8/VeriPaper) | FastAPI · React · Python · ONNX | Research-paper verification with AI-content analysis, plagiarism checks, citation validation, and integrity assessment. |
-| [**DocOps Enterprise**](https://github.com/SparshM8/DocOps) | Next.js · RAG · Qdrant · LangGraph | Documentation and diagnostics platform with intelligent troubleshooting and telemetry workflows. |
-| [**ResearchAI Multi-Agent**](https://github.com/SparshM8/ResearchAI-MultiAgent) | RAG · Knowledge Graphs · Multi-agent AI | Grounded research workspace for document intelligence, source discovery, and research chat. |
-| [**APIXpress**](https://github.com/SparshM8/APIXPRESS) | TypeScript · REST APIs | Developer-focused API testing client for building, testing, and documenting API workflows. |
-| [**AllTripp**](https://github.com/SparshM8/AllTripp) | Next.js · TypeScript · Tailwind CSS | Modern travel platform with destination discovery, animation, SEO, and analytics instrumentation. |
+| [**DocOps Enterprise**](https://github.com/SparshM8/DocOps) | Next.js · RAG · Qdrant · LangGraph | Industrial documentation and diagnostics platform with a RAG copilot, telemetry workflows, and offline inference. |
+| [**VoteSaathi**](https://github.com/SparshM8/VoteSaathi) | JavaScript · AI · Civic Tech | Civic-tech platform concept focused on misinformation awareness, fact-checking, and interactive election intelligence. |
+| [**AKTU Result Calculator**](https://github.com/SparshM8/AKTU_RESULT_CALCULATOR) | React · Vite · Tailwind CSS | Live student utility for branch-aware SGPA, YGPA, and CGPA calculations with pass-criteria checks. |
+| [**ML Basic Project**](https://github.com/SparshM8/ML-Basic-Project) | Python · scikit-learn · Pandas | End-to-end portfolio covering regression, classification, NLP, exploratory analysis, and model evaluation. |
 
 ## Technical Toolkit
 
